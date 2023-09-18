@@ -11,7 +11,7 @@ of new drug candidates to treat epilepsy and neglected tropical diseases.
 
 -------------------------------------------------------------------------------------------------
 
-**OCT1 Substrate Prediction**
+**Volume of Distribution Prediction**
 
 **It is a free web-application for Volume of Distribution Prediction**
 
