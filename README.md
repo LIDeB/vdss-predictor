@@ -13,7 +13,7 @@ of new drug candidates to treat epilepsy and neglected tropical diseases.
 
 **OCT1 Substrate Prediction**
 
-**It is a free web-application for Organic cation transporter 1 (OCT1) Substrate Prediction**
+**It is a free web-application for Volume of Distribution Prediction**
 
 The volume of distribution at steady state (VDss) is an important pharmacokinetic
 parameter that determines, along with clearance, the half-life of a compound. It
